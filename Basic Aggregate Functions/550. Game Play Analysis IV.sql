@@ -13,3 +13,5 @@ from Activity a_full,
 -- Optimized query for faster response 2025-02-16 14:50:49
 
 -- Optimized query for faster response 2025-02-16 14:50:56
+
+-- Optimized query for faster response 2025-02-16 14:53:06
