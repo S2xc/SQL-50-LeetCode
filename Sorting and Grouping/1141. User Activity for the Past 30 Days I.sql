@@ -15,3 +15,5 @@ group by day
 -- Optimized query for faster response 2025-02-16 14:50:42
 
 -- Optimized query for faster response 2025-02-16 14:50:45
+
+-- Optimized query for faster response 2025-02-16 15:11:12
