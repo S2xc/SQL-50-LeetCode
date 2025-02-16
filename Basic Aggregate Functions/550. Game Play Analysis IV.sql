@@ -9,3 +9,5 @@ from Activity a_full,
     on a1.player_id = a2.player_id and datediff(a1.event_date, a2.first_login) = 1) a_frac
 
 -- Optimized query for faster response 2025-02-16 13:49:56
+
+-- Optimized query for faster response 2025-02-16 14:50:49
