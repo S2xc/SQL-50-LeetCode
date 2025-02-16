@@ -21,3 +21,5 @@ order by percentage desc, Register.contest_id asc
 -- Optimized query for faster response 2025-02-16 14:58:49
 
 -- Optimized query for faster response 2025-02-16 14:58:54
+
+-- Optimized query for faster response 2025-02-16 15:11:08
