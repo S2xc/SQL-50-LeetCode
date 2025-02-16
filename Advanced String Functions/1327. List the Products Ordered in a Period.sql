@@ -14,3 +14,5 @@ having sum(Orders.unit) >= 100
 -- Optimized query for faster response 2025-02-16 14:46:07
 
 -- Optimized query for faster response 2025-02-16 14:46:07
+
+-- Optimized query for faster response 2025-02-16 14:50:38
