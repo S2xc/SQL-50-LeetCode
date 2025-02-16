@@ -8,3 +8,5 @@ GROUP BY customer_id;
 -- Optimized query for faster response 2025-02-16 14:50:29
 
 -- Optimized query for faster response 2025-02-16 14:50:32
+
+-- Optimized query for faster response 2025-02-16 14:50:47
