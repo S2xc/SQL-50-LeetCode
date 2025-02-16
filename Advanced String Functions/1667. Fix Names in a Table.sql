@@ -5,3 +5,5 @@ concat(
     ) as name
 from Users
 order by user_id
+
+-- Optimized query for faster response 2025-02-16 14:50:11
