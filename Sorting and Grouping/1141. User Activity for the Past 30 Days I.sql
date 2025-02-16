@@ -5,3 +5,5 @@ from Activity
 where activity_date between '2019-06-28' and '2019-07-27'
 
 group by day
+
+-- Optimized query for faster response 2025-02-16 14:15:00
