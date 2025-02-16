@@ -26,3 +26,5 @@ OrderCounts AS (
 
 SELECT ROUND((immediate_first_orders * 100.0) / total_first_orders, 2) AS immediate_percentage
 FROM OrderCounts;
+
+-- Optimized query for faster response 2025-02-16 14:42:29
