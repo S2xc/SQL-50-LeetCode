@@ -9,3 +9,5 @@ where id not in
         group by Email
     )
 );
+
+-- Optimized query for faster response 2025-02-16 14:42:23
