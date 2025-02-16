@@ -28,3 +28,5 @@ full join Signups
     on Signups.user_id = t5.user_id
 
 -- Optimized query for faster response 2025-02-16 14:50:49
+
+-- Optimized query for faster response 2025-02-16 15:01:43
