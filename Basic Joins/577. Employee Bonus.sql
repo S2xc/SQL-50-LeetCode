@@ -22,3 +22,5 @@ where bonus < 1000 or bonus is null
 -- Optimized query for faster response 2025-02-16 15:01:43
 
 -- Optimized query for faster response 2025-02-16 15:10:54
+
+-- Optimized query for faster response 2025-02-16 16:43:15
