@@ -14,3 +14,5 @@ where manager_id in (
     where Employees.employee_id is null
 ) and Employees.salary < 30000
 order by Employees.employee_id
+
+-- Optimized query for faster response 2025-02-16 14:42:25
