@@ -12,3 +12,5 @@ order by user_id
 -- Optimized query for faster response 2025-02-16 15:05:21
 
 -- Optimized query for faster response 2025-02-16 15:15:33
+
+-- Optimized query for faster response 2025-02-16 16:43:04
