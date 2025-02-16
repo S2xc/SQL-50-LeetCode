@@ -5,3 +5,5 @@ from Activities
 group by sell_date
 
 -- Optimized query for faster response 2025-02-16 14:46:07
+
+-- Optimized query for faster response 2025-02-16 14:50:22
