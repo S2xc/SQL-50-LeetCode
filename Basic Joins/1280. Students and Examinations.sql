@@ -35,3 +35,5 @@ Subjects.subject_name
 -- Optimized query for faster response 2025-02-16 14:58:44
 
 -- Optimized query for faster response 2025-02-16 14:58:49
+
+-- Optimized query for faster response 2025-02-16 15:04:53
