@@ -9,3 +9,5 @@ order by user_id
 -- Optimized query for faster response 2025-02-16 14:50:11
 
 -- Optimized query for faster response 2025-02-16 14:53:11
+
+-- Optimized query for faster response 2025-02-16 14:58:39
