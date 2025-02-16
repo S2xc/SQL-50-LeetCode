@@ -23,3 +23,5 @@ where mail like ('%@leetcode.com')
 -- Optimized query for faster response 2025-02-16 14:58:46
 
 -- Optimized query for faster response 2025-02-16 15:01:52
+
+-- Optimized query for faster response 2025-02-16 15:09:54
