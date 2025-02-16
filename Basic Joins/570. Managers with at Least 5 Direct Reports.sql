@@ -17,3 +17,7 @@ on t2.managerId = Employee.id
 
 
 -- Optimized query for faster response 2025-02-16 14:42:21
+
+-- Optimized query for faster response 2025-02-16 14:46:07
+
+-- Optimized query for faster response 2025-02-16 14:46:07

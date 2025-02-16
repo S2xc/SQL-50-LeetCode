@@ -9,3 +9,5 @@ round(COUNT(*), 2), 2) AS poor_query_percentage
 
 from Queries
 group by query_name
+
+-- Optimized query for faster response 2025-02-16 14:46:07

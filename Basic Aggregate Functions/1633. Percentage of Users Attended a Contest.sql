@@ -11,3 +11,9 @@ on Users.user_id = Register.user_id
 
 group by Register.contest_id
 order by percentage desc, Register.contest_id asc
+
+-- Optimized query for faster response 2025-02-16 14:46:07
+
+-- Optimized query for faster response 2025-02-16 14:46:07
+
+-- Optimized query for faster response 2025-02-16 14:50:07

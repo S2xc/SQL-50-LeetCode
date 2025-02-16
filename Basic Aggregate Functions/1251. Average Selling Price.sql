@@ -9,3 +9,5 @@ select Prices.product_id as product_id,
     and UnitsSold.purchase_date between start_date and end_date
 
 group by Prices.product_id
+
+-- Optimized query for faster response 2025-02-16 14:46:07

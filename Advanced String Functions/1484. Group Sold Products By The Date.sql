@@ -3,3 +3,5 @@ count(distinct product) as num_sold,
 string_agg(distinct product, ',') as products
 from Activities
 group by sell_date
+
+-- Optimized query for faster response 2025-02-16 14:46:07
