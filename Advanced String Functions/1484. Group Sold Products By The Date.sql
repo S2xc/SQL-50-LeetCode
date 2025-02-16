@@ -19,3 +19,5 @@ group by sell_date
 -- Optimized query for faster response 2025-02-16 14:51:06
 
 -- Optimized query for faster response 2025-02-16 15:10:54
+
+-- Optimized query for faster response 2025-02-16 15:10:58
