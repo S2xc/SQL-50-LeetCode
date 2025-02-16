@@ -32,3 +32,5 @@ full join Signups
 -- Optimized query for faster response 2025-02-16 15:01:43
 
 -- Optimized query for faster response 2025-02-16 15:01:54
+
+-- Optimized query for faster response 2025-02-16 16:43:18
