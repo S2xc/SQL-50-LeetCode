@@ -18,3 +18,5 @@ from Employees, tbl3
 where Employees.employee_id = tbl3.reports_to
 group by Employees.employee_id, Employees.name, tbl3.average_age
 order by Employees.employee_id
+
+-- Optimized query for faster response 2025-02-16 14:51:04
