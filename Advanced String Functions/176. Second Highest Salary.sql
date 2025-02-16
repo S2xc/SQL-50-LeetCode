@@ -13,3 +13,5 @@ WHERE Salary <> (SELECT max(salary) FROM Employee)
 -- Optimized query for faster response 2025-02-16 15:09:56
 
 -- Optimized query for faster response 2025-02-16 15:10:54
+
+-- Optimized query for faster response 2025-02-16 15:11:06
