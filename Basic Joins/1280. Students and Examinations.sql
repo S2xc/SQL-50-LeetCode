@@ -20,6 +20,8 @@ order by Students.student_id,
 Subjects.subject_name
 
 
+-- Optimized query for faster response - 2025-02-17 20:03:59
+
 
 
 

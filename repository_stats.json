@@ -79,7 +79,7 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 16,
+            "total_commits": 17,
             "files": {
                 "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Sorting and Grouping/1141. User Activity for the Past 30 Days I.sql": {
                     "commits": 2,
@@ -106,8 +106,8 @@
                     "complexity_score": 0
                 },
                 "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Aggregate Functions/1211. Queries Quality and Percentage.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:03:23",
+                    "commits": 2,
+                    "last_modified": "2025-02-17 20:03:59",
                     "changes_per_month": {},
                     "complexity_score": 0
                 },
@@ -154,7 +154,7 @@
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:03:55",
+            "last_commit": "2025-02-17 20:03:59",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -177,13 +177,13 @@
                 0,
                 0,
                 0,
-                16,
+                17,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                16,
+                17,
                 0,
                 0,
                 0,
@@ -193,7 +193,7 @@
             ]
         }
     },
-    "total_commits": 22,
+    "total_commits": 23,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
