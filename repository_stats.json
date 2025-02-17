@@ -1,0 +1,62 @@
+{
+    "repositories": {
+        "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
+            "total_commits": 1,
+            "files": {
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Aggregate Functions/1193. Monthly Transactions I.sql": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:01:34",
+                    "changes_per_month": {},
+                    "complexity_score": 0
+                }
+            },
+            "last_commit": "2025-02-17 20:01:34",
+            "commit_types": {},
+            "active_hours": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+            ],
+            "active_days": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "total_commits": 1,
+    "commit_history": [],
+    "developer_patterns": {},
+    "most_active_times": {},
+    "file_complexity": {},
+    "commit_streaks": {
+        "current": 1,
+        "longest": 0,
+        "last_commit_date": "2025-02-17"
+    }
+}
