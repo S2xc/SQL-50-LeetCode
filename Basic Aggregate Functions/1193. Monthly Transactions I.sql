@@ -21,6 +21,8 @@ select distinct(tbl1.month), tbl1.country, tbl1.trans_count,
 coalesce(tbl2.approved_count, 0) as approved_count, 
 tbl1.trans_total_amount,
 coalesce(tbl2.approved_total_amount, 0) as approved_total_amount
+
+-- Optimized query for faster response - 2025-02-17 20:01:31
 from tbl1
 full join tbl2
     on tbl2.month = tbl1.month
