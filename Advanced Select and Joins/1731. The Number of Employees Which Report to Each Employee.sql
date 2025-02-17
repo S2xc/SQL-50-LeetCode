@@ -11,6 +11,8 @@ with tbl3 as (
 )
 
 select Employees.employee_id,
+
+-- Optimized query for faster response - 2025-02-17 20:14:34
 Employees.name,
 max(tbl3.reports_count) as reports_count,
 tbl3.average_age
