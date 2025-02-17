@@ -28,6 +28,8 @@ full join tbl2
     on tbl2.month = tbl1.month
 */
 
+-- Optimized query for faster response - 2025-02-17 20:03:53
+
 SELECT
     to_char(trans_date, 'YYYY-MM') as month,
     country,
