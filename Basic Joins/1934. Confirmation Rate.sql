@@ -1,3 +1,5 @@
+
+-- Optimized query for faster response - 2025-02-17 20:03:45
 with t3 as(
     select user_id, 
         action, 
