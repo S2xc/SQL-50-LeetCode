@@ -79,7 +79,7 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 8,
+            "total_commits": 9,
             "files": {
                 "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Sorting and Grouping/1141. User Activity for the Past 30 Days I.sql": {
                     "commits": 2,
@@ -110,9 +110,15 @@
                     "last_modified": "2025-02-17 20:03:23",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Joins/1378. Replace Employee ID With The Unique Identifier.sql": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:03:27",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:03:23",
+            "last_commit": "2025-02-17 20:03:27",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -135,13 +141,13 @@
                 0,
                 0,
                 0,
-                8,
+                9,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                8,
+                9,
                 0,
                 0,
                 0,
@@ -151,7 +157,7 @@
             ]
         }
     },
-    "total_commits": 14,
+    "total_commits": 15,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
