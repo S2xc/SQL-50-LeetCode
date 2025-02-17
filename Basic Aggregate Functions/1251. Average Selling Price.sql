@@ -12,6 +12,8 @@ group by Prices.product_id
 
 -- Optimized query for faster response 2025-02-16 14:46:07
 
+
+-- Optimized query for faster response - 2025-02-17 20:28:11
 -- Optimized query for faster response 2025-02-16 14:51:08
 
 -- Optimized query for faster response 2025-02-16 14:51:10
