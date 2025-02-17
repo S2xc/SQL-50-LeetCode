@@ -1,16 +1,94 @@
 {
     "repositories": {
-        "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 1,
+        "/Users/s2xdeb/Desktop/ed_g/pythhon": {
+            "total_commits": 6,
             "files": {
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Aggregate Functions/1193. Monthly Transactions I.sql": {
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/telebot.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:01:34",
+                    "last_modified": "2025-02-17 20:02:28",
+                    "changes_per_month": {},
+                    "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/1768. Merge Strings Alternately.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:02:31",
+                    "changes_per_month": {},
+                    "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Plus One.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:02:36",
+                    "changes_per_month": {},
+                    "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Permutation Sequence.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:02:39",
+                    "changes_per_month": {},
+                    "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Find the Index of the First Occurrence in a String.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:02:42",
+                    "changes_per_month": {},
+                    "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Letter Combinations of a Phone Number.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:02:45",
                     "changes_per_month": {},
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:01:34",
+            "last_commit": "2025-02-17 20:02:45",
+            "commit_types": {},
+            "active_hours": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0
+            ],
+            "active_days": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
+            "total_commits": 1,
+            "files": {
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Sorting and Grouping/1141. User Activity for the Past 30 Days I.sql": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:02:48",
+                    "changes_per_month": {},
+                    "complexity_score": 0
+                }
+            },
+            "last_commit": "2025-02-17 20:02:48",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -49,7 +127,7 @@
             ]
         }
     },
-    "total_commits": 1,
+    "total_commits": 7,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
