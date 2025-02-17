@@ -10,6 +10,8 @@ with tbl3 as (
     group by t1.reports_to
 )
 
+-- Optimized query for faster response - 2025-02-17 20:14:39
+
 select Employees.employee_id,
 
 -- Optimized query for faster response - 2025-02-17 20:14:34
