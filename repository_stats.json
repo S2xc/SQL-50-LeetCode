@@ -1,52 +1,28 @@
 {
     "repositories": {
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 8,
+            "total_commits": 3,
             "files": {
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Nim_Game.py": {
-                    "commits": 2,
-                    "last_modified": "2025-02-17 20:11:22",
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Single Number.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:14:16",
                     "changes_per_month": {},
                     "complexity_score": 0
                 },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Plus One.py": {
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Merge Two Sorted Lists.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:11:18",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Add Digits.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:11:24",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Permutations II.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:11:29",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/26. Remove Duplicates from Sorted Array.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:11:33",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/apple_test.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:11:37",
+                    "last_modified": "2025-02-17 20:14:19",
                     "changes_per_month": {},
                     "complexity_score": 0
                 },
                 "/Users/s2xdeb/Desktop/ed_g/pythhon/1071. Greatest Common Divisor of Strings.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:11:40",
+                    "last_modified": "2025-02-17 20:14:22",
                     "changes_per_month": {},
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:11:40",
+            "last_commit": "2025-02-17 20:14:22",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -69,13 +45,13 @@
                 0,
                 0,
                 0,
-                8,
+                3,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                8,
+                3,
                 0,
                 0,
                 0,
@@ -85,22 +61,16 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 2,
+            "total_commits": 1,
             "files": {
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced Select and Joins/610. Triangle Judgement.sql": {
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced String Functions/176. Second Highest Salary.sql": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:11:43",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Subqueries/1978. Employees Whose Manager Left the Company.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:11:46",
+                    "last_modified": "2025-02-17 20:14:25",
                     "changes_per_month": {},
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:11:46",
+            "last_commit": "2025-02-17 20:14:25",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -123,13 +93,13 @@
                 0,
                 0,
                 0,
-                2,
+                1,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                2,
+                1,
                 0,
                 0,
                 0,
@@ -139,7 +109,7 @@
             ]
         }
     },
-    "total_commits": 10,
+    "total_commits": 4,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
