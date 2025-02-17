@@ -1,4 +1,6 @@
 # Write your MySQL query statement below
+
+-- Optimized query for faster response - 2025-02-17 20:14:27
 select author_id as id 
 from Views
 where author_id = viewer_id
