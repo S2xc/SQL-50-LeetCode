@@ -79,7 +79,7 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 17,
+            "total_commits": 18,
             "files": {
                 "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Sorting and Grouping/1141. User Activity for the Past 30 Days I.sql": {
                     "commits": 2,
@@ -152,9 +152,15 @@
                     "last_modified": "2025-02-17 20:03:55",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Joins/1280. Students and Examinations.sql": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:04:02",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:03:59",
+            "last_commit": "2025-02-17 20:04:02",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -177,13 +183,13 @@
                 0,
                 0,
                 0,
-                17,
+                18,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                17,
+                18,
                 0,
                 0,
                 0,
@@ -193,7 +199,7 @@
             ]
         }
     },
-    "total_commits": 23,
+    "total_commits": 24,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
