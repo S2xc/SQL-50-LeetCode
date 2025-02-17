@@ -1,46 +1,52 @@
 {
     "repositories": {
         "/Users/s2xdeb/Desktop/ed_g/pythhon": {
-            "total_commits": 6,
+            "total_commits": 8,
             "files": {
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/telebot.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:02:28",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/1768. Merge Strings Alternately.py": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:02:31",
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Nim_Game.py": {
+                    "commits": 2,
+                    "last_modified": "2025-02-17 20:11:22",
                     "changes_per_month": {},
                     "complexity_score": 0
                 },
                 "/Users/s2xdeb/Desktop/ed_g/pythhon/Plus One.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:02:36",
+                    "last_modified": "2025-02-17 20:11:18",
                     "changes_per_month": {},
                     "complexity_score": 0
                 },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Permutation Sequence.py": {
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Add Digits.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:02:39",
+                    "last_modified": "2025-02-17 20:11:24",
                     "changes_per_month": {},
                     "complexity_score": 0
                 },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Find the Index of the First Occurrence in a String.py": {
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/Permutations II.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:02:42",
+                    "last_modified": "2025-02-17 20:11:29",
                     "changes_per_month": {},
                     "complexity_score": 0
                 },
-                "/Users/s2xdeb/Desktop/ed_g/pythhon/Letter Combinations of a Phone Number.py": {
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/26. Remove Duplicates from Sorted Array.py": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:02:45",
+                    "last_modified": "2025-02-17 20:11:33",
+                    "changes_per_month": {},
+                    "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/apple_test.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:11:37",
+                    "changes_per_month": {},
+                    "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/ed_g/pythhon/1071. Greatest Common Divisor of Strings.py": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:11:40",
                     "changes_per_month": {},
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:02:45",
+            "last_commit": "2025-02-17 20:11:40",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -63,13 +69,13 @@
                 0,
                 0,
                 0,
-                6,
+                8,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                6,
+                8,
                 0,
                 0,
                 0,
@@ -79,88 +85,16 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 19,
+            "total_commits": 1,
             "files": {
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Sorting and Grouping/1141. User Activity for the Past 30 Days I.sql": {
-                    "commits": 3,
-                    "last_modified": "2025-02-17 20:04:05",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Sorting and Grouping/1729. Find Followers Count.sql": {
-                    "commits": 2,
-                    "last_modified": "2025-02-17 20:03:53",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Joins/1068. Product Sales Analysis I.sql": {
-                    "commits": 3,
-                    "last_modified": "2025-02-17 20:03:20",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Aggregate Functions/1633. Percentage of Users Attended a Contest.sql": {
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced Select and Joins/610. Triangle Judgement.sql": {
                     "commits": 1,
-                    "last_modified": "2025-02-17 20:03:06",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Aggregate Functions/1211. Queries Quality and Percentage.sql": {
-                    "commits": 2,
-                    "last_modified": "2025-02-17 20:03:59",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Joins/1378. Replace Employee ID With The Unique Identifier.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:03:27",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Select/1148. Article Views I.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:03:33",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Joins/570. Managers with at Least 5 Direct Reports.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:03:36",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Joins/1581. Customer Who Visited but Did Not Make Any Transactions.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:03:40",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced String Functions/1327. List the Products Ordered in a Period.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:03:45",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Joins/1934. Confirmation Rate.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:03:50",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Aggregate Functions/1193. Monthly Transactions I.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:03:55",
-                    "changes_per_month": {},
-                    "complexity_score": 0
-                },
-                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Joins/1280. Students and Examinations.sql": {
-                    "commits": 1,
-                    "last_modified": "2025-02-17 20:04:02",
+                    "last_modified": "2025-02-17 20:11:43",
                     "changes_per_month": {},
                     "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:04:05",
+            "last_commit": "2025-02-17 20:11:43",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -183,13 +117,13 @@
                 0,
                 0,
                 0,
-                19,
+                1,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                19,
+                1,
                 0,
                 0,
                 0,
@@ -199,7 +133,7 @@
             ]
         }
     },
-    "total_commits": 25,
+    "total_commits": 9,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
