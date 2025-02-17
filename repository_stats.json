@@ -79,7 +79,7 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 10,
+            "total_commits": 11,
             "files": {
                 "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Sorting and Grouping/1141. User Activity for the Past 30 Days I.sql": {
                     "commits": 2,
@@ -122,9 +122,15 @@
                     "last_modified": "2025-02-17 20:03:33",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Joins/570. Managers with at Least 5 Direct Reports.sql": {
+                    "commits": 1,
+                    "last_modified": "2025-02-17 20:03:36",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-17 20:03:33",
+            "last_commit": "2025-02-17 20:03:36",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -147,13 +153,13 @@
                 0,
                 0,
                 0,
-                10,
+                11,
                 0,
                 0,
                 0
             ],
             "active_days": [
-                10,
+                11,
                 0,
                 0,
                 0,
@@ -163,7 +169,7 @@
             ]
         }
     },
-    "total_commits": 16,
+    "total_commits": 17,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
