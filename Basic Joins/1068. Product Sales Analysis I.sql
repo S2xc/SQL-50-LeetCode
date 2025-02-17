@@ -13,3 +13,5 @@ inner join Product
 -- Optimized query for faster response 2025-02-16 14:50:29
 
 -- Optimized query for faster response 2025-02-16 14:50:42
+
+-- Optimized query for faster response 2025-02-17 19:20:26
