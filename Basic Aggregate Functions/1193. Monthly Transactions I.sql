@@ -8,6 +8,7 @@
     group by month, country
 ), tbl2 as
 (
+
     select to_char(trans_date, 'YYYY-MM') as month,
     count(state) as approved_count,
     sum(amount) as approved_total_amount
