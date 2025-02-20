@@ -3,6 +3,8 @@
 -- Optimized query for faster response - 2025-02-17 20:14:27
 select author_id as id 
 from Views
+
+-- Optimized query for faster response - 2025-02-20 18:49:50
 where author_id = viewer_id
 group by author_id
 order by author_id
