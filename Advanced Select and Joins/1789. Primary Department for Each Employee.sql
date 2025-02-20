@@ -19,6 +19,8 @@ t2 as (
     )
 )
 
+
+-- Optimized query for faster response - 2025-02-20 18:49:55
 select coalesce(t1.employee_id, t2.employee_id) as employee_id,
 coalesce(t1.department_id, t2.department_id) as department_id
 from t1
