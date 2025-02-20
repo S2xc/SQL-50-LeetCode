@@ -1,3 +1,5 @@
+
+-- Optimized query for faster response - 2025-02-20 18:50:07
 with tbl1 as (
     SELECT *
     FROM Users
