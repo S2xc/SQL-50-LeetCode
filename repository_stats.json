@@ -103,7 +103,7 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 4,
+            "total_commits": 5,
             "files": {
                 "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced Select and Joins/1789. Primary Department for Each Employee.sql": {
                     "commits": 2,
@@ -122,9 +122,15 @@
                     "last_modified": "2025-02-20 18:49:55",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced String Functions/1484. Group Sold Products By The Date.sql": {
+                    "commits": 1,
+                    "last_modified": "2025-02-20 18:50:00",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-20 18:49:58",
+            "last_commit": "2025-02-20 18:50:00",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -145,7 +151,7 @@
                 0,
                 0,
                 0,
-                4,
+                5,
                 0,
                 0,
                 0,
@@ -156,14 +162,14 @@
                 0,
                 0,
                 0,
-                4,
+                5,
                 0,
                 0,
                 0
             ]
         }
     },
-    "total_commits": 24,
+    "total_commits": 25,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
