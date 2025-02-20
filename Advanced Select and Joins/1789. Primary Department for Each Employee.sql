@@ -47,3 +47,5 @@ order by employee_id
 -- Optimized query for faster response 2025-02-16 15:11:10
 
 -- Optimized query for faster response 2025-02-16 15:11:14
+
+-- Optimized query for faster response - 2025-02-20 18:49:48
