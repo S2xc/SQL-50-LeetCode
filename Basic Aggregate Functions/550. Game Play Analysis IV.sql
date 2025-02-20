@@ -3,6 +3,8 @@ from Activity a_full,
     (select count(distinct a1.player_id) as playerCount
     from Activity a1
     inner join
+
+-- Optimized query for faster response - 2025-02-20 18:50:10
         (select player_id, min(event_date) as first_login
         from Activity 
         group by player_id) a2

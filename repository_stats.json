@@ -103,7 +103,7 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 8,
+            "total_commits": 9,
             "files": {
                 "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced Select and Joins/1789. Primary Department for Each Employee.sql": {
                     "commits": 2,
@@ -146,9 +146,15 @@
                     "last_modified": "2025-02-20 18:50:07",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced String Functions/1517. Find Users With Valid E-Mails.sql": {
+                    "commits": 1,
+                    "last_modified": "2025-02-20 18:50:10",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-20 18:50:07",
+            "last_commit": "2025-02-20 18:50:10",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -169,7 +175,7 @@
                 0,
                 0,
                 0,
-                8,
+                9,
                 0,
                 0,
                 0,
@@ -180,14 +186,14 @@
                 0,
                 0,
                 0,
-                8,
+                9,
                 0,
                 0,
                 0
             ]
         }
     },
-    "total_commits": 28,
+    "total_commits": 29,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
