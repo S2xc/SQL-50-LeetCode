@@ -103,7 +103,7 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 9,
+            "total_commits": 10,
             "files": {
                 "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced Select and Joins/1789. Primary Department for Each Employee.sql": {
                     "commits": 2,
@@ -152,9 +152,15 @@
                     "last_modified": "2025-02-20 18:50:10",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Basic Aggregate Functions/550. Game Play Analysis IV.sql": {
+                    "commits": 1,
+                    "last_modified": "2025-02-20 18:50:12",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-20 18:50:10",
+            "last_commit": "2025-02-20 18:50:12",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -175,7 +181,7 @@
                 0,
                 0,
                 0,
-                9,
+                10,
                 0,
                 0,
                 0,
@@ -186,14 +192,14 @@
                 0,
                 0,
                 0,
-                9,
+                10,
                 0,
                 0,
                 0
             ]
         }
     },
-    "total_commits": 29,
+    "total_commits": 30,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
