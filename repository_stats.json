@@ -103,7 +103,7 @@
             ]
         },
         "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode": {
-            "total_commits": 5,
+            "total_commits": 6,
             "files": {
                 "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced Select and Joins/1789. Primary Department for Each Employee.sql": {
                     "commits": 2,
@@ -128,9 +128,15 @@
                     "last_modified": "2025-02-20 18:50:00",
                     "changes_per_month": {},
                     "complexity_score": 0
+                },
+                "/Users/s2xdeb/Desktop/g/\u0438/SQL-50-LeetCode/Advanced Select and Joins/610. Triangle Judgement.sql": {
+                    "commits": 1,
+                    "last_modified": "2025-02-20 18:50:02",
+                    "changes_per_month": {},
+                    "complexity_score": 0
                 }
             },
-            "last_commit": "2025-02-20 18:50:00",
+            "last_commit": "2025-02-20 18:50:02",
             "commit_types": {},
             "active_hours": [
                 0,
@@ -151,7 +157,7 @@
                 0,
                 0,
                 0,
-                5,
+                6,
                 0,
                 0,
                 0,
@@ -162,14 +168,14 @@
                 0,
                 0,
                 0,
-                5,
+                6,
                 0,
                 0,
                 0
             ]
         }
     },
-    "total_commits": 25,
+    "total_commits": 26,
     "commit_history": [],
     "developer_patterns": {},
     "most_active_times": {},
