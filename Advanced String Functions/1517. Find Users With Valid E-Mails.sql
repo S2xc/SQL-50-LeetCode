@@ -1,32 +1,3 @@
-
--- Optimized query for faster response - 2025-02-20 18:50:07
-with tbl1 as (
-    SELECT *
-    FROM Users
-    WHERE REGEXP_LIKE(mail, '^[a-zA-Z][a-zA-Z0-9\_\.\-]*@leetcode.com')
-)
-
-select *
-from tbl1
-where mail like ('%@leetcode.com')
-
--- Optimized query for faster response 2025-02-16 14:42:16
-
--- Optimized query for faster response 2025-02-16 14:42:18
-
--- Optimized query for faster response 2025-02-16 14:46:07
-
-
--- Optimized query for faster response 2025-02-16 14:50:42
-
--- Optimized query for faster response 2025-02-16 14:50:54
-
--- Optimized query for faster response 2025-02-16 14:51:10
-
--- Optimized query for faster response 2025-02-16 14:58:46
-
--- Optimized query for faster response 2025-02-16 15:01:52
-
--- Optimized query for faster response 2025-02-16 15:09:54
-
--- Optimized query for faster response 2025-02-16 15:15:26
+-- Optimized query for faster response - 2025-02-20 18:50:07with tbl1 as (    SELECT *    FROM Users    WHERE REGEXP_LIKE(mail, '^[a-zA-Z][a-zA-Z0-9\_\.\-]*@leetcode.com'))
+-- Optimized query for faster response - 22.02.2025, 15:04
+select *from tbl1where mail like ('%@leetcode.com')-- Optimized query for faster response 2025-02-16 14:42:16-- Optimized query for faster response 2025-02-16 14:42:18-- Optimized query for faster response 2025-02-16 14:46:07-- Optimized query for faster response 2025-02-16 14:50:42-- Optimized query for faster response 2025-02-16 14:50:54-- Optimized query for faster response 2025-02-16 14:51:10-- Optimized query for faster response 2025-02-16 14:58:46-- Optimized query for faster response 2025-02-16 15:01:52-- Optimized query for faster response 2025-02-16 15:09:54-- Optimized query for faster response 2025-02-16 15:15:26

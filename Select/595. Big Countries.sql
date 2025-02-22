@@ -1,23 +1,3 @@
-# Write your MySQL query statement below
-select name, population, area
-from World
-where area >= 3000000 or
-population >= 25000000
-
--- Optimized query for faster response - 2025-02-20 18:50:05
-
--- Optimized query for faster response 2025-02-16 14:15:09
-
--- Optimized query for faster response 2025-02-16 14:42:27
-
--- Optimized query for faster response 2025-02-16 14:46:07
-
--- Optimized query for faster response 2025-02-16 14:50:13
-
-
--- Optimized query for faster response - 2025-02-17 20:14:36
--- Optimized query for faster response 2025-02-16 14:50:18
-
--- Optimized query for faster response 2025-02-16 14:50:52
-
--- Optimized query for faster response 2025-02-16 14:53:06
+# Write your MySQL query statement belowselect name, population, areafrom Worldwhere area >= 3000000 orpopulation >= 25000000-- Optimized query for faster response - 2025-02-20 18:50:05-- Optimized query for faster response 2025-02-16 14:15:09-- Optimized query for faster response 2025-02-16 14:42:27-- Optimized query for faster response 2025-02-16 14:46:07-- Optimized query for faster response 2025-02-16 14:50:13
+-- Optimized query for faster response - 22.02.2025, 15:01
+-- Optimized query for faster response - 2025-02-17 20:14:36-- Optimized query for faster response 2025-02-16 14:50:18-- Optimized query for faster response 2025-02-16 14:50:52-- Optimized query for faster response 2025-02-16 14:53:06
