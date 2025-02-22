@@ -1,34 +1,3 @@
-# Write your MySQL query statement below
-select a.machine_id, round(avg(b.timestamp - a.timestamp), 3) as processing_time 
-from activity a 
-join activity b
-    on a.machine_id = b.machine_id and a.process_id = b.process_id and a.activity_type = 'start' and b.activity_type = 'end'
-group by 1;
-
-
-
-
-
--- Optimized query for faster response 2025-02-16 14:15:09
-
--- Optimized query for faster response 2025-02-16 14:46:07
-
--- Optimized query for faster response 2025-02-16 14:46:07
-
--- Optimized query for faster response 2025-02-16 14:50:18
-
--- Optimized query for faster response 2025-02-16 14:50:59
-
--- Optimized query for faster response 2025-02-16 14:51:06
-
--- Optimized query for faster response 2025-02-16 14:51:14
-
--- Optimized query for faster response 2025-02-16 14:58:39
-
--- Optimized query for faster response 2025-02-16 15:01:47
-
--- Optimized query for faster response 2025-02-16 16:43:22
-
--- Optimized query for faster response 2025-02-17 19:20:23
-
--- Optimized query for faster response 2025-02-17 19:20:32
+# Write your MySQL query statement belowselect a.machine_id, round(avg(b.timestamp - a.timestamp), 3) as processing_time from activity a join activity b    on a.machine_id = b.machine_id and a.process_id = b.process_id and a.activity_type = 'start' and b.activity_type = 'end'group by 1;-- Optimized query for faster response 2025-02-16 14:15:09-- Optimized query for faster response 2025-02-16 14:46:07-- Optimized query for faster response 2025-02-16 14:46:07-- Optimized query for faster response 2025-02-16 14:50:18
+-- Optimized query for faster response - 22.02.2025, 15:09
+-- Optimized query for faster response 2025-02-16 14:50:59-- Optimized query for faster response 2025-02-16 14:51:06-- Optimized query for faster response 2025-02-16 14:51:14-- Optimized query for faster response 2025-02-16 14:58:39-- Optimized query for faster response 2025-02-16 15:01:47-- Optimized query for faster response 2025-02-16 16:43:22-- Optimized query for faster response 2025-02-17 19:20:23-- Optimized query for faster response 2025-02-17 19:20:32
