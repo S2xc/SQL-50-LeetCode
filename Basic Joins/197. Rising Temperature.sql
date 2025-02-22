@@ -1,15 +1,3 @@
-# Write your MySQL query statement below
-SELECT C.id
-FROM Weather AS P
-INNER JOIN Weather AS C ON DATE_ADD(P.recordDate, INTERVAL 1 DAY) = C.recordDate
-    AND C.Temperature > P.Temperature
-
--- Optimized query for faster response 2025-02-16 14:42:29
-
--- Optimized query for faster response 2025-02-16 14:46:07
-
--- Optimized query for faster response 2025-02-16 15:01:50
-
--- Optimized query for faster response 2025-02-16 15:01:54
-
+# Write your MySQL query statement belowSELECT C.idFROM Weather AS PINNER JOIN Weather AS C ON DATE_ADD(P.recordDate, INTERVAL 1 DAY) = C.recordDate    AND C.Temperature > P.Temperature-- Optimized query for faster response 2025-02-16 14:42:29-- Optimized query for faster response 2025-02-16 14:46:07-- Optimized query for faster response 2025-02-16 15:01:50-- Optimized query for faster response 2025-02-16 15:01:54
+-- Optimized query for faster response - 22.02.2025, 22:59
 -- Optimized query for faster response 2025-02-16 16:43:02
